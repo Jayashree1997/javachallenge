@@ -13,16 +13,16 @@ public class DeluxeHamberger extends BaseHamberger{
             additionalItem.add(chips);
         }
     }
-    @Override
-    public double finalPrice(){
-        return super.finalPrice();
-    }
-    @Override
-    public double additionalPrice(){
-        return super.additionalPrice();
-    }
-    @Override
-    public double getBasePrice() {
-        return super.getBaseprice();
-    }
+//    @Override
+//    public double finalPrice(){
+//        return super.finalPrice();
+//    }
+//    @Override
+//    public double additionalPrice(){
+//        return super.additionalPrice();
+//    }
+//    @Override
+//    public double getBasePrice() {
+//        return super.getBaseprice();
+
 }

@@ -12,18 +12,18 @@ public class HealthyBurger extends BaseHamberger {
             additionalItem.add(capsicum);
         }
     }
-    @Override
-    public double finalPrice(){
-        return super.finalPrice();
-    }
-    @Override
-    public double additionalPrice(){
-        return super.additionalPrice();
-    }
-    @Override
-    public double getBasePrice() {
-        return super.getBaseprice();
-    }
+//    @Override
+//    public double finalPrice(){
+//        return super.finalPrice();
+//    }
+//    @Override
+//    public double additionalPrice(){
+//        return super.additionalPrice();
+//    }
+//    @Override
+//    public double getBasePrice() {
+//        return super.getBaseprice();
+//    }
 }
 
 
